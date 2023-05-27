@@ -1,0 +1,12 @@
+.glass{
+    @apply h-4/6 w-2/6;
+    block-size: fit-content;
+}
+
+.profile_img{
+    @apply  cursor-pointer;
+}
+
+.textbox{
+    @apply w-3/4;
+}
